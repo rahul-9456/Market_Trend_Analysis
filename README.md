@@ -31,6 +31,14 @@ The dashboard includes:
 - Impact of bathrooms on price
 - Distribution of housing prices
 
+## Amount of Data Loaded
+The dataset used in this project contains:
+
+- Total Rows: 8401
+- Total Columns: 34
+
+The dataset was successfully loaded into Tableau and used to create visualizations and dashboards.
+
 ## Repository Contents
 This repository includes:
 
