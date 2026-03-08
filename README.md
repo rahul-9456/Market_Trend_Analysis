@@ -39,6 +39,12 @@ The dataset used in this project contains:
 
 The dataset was successfully loaded into Tableau and used to create visualizations and dashboards.
 
+## Web Integration
+
+The Tableau dashboard has been embedded into a simple web interface using HTML.
+
+The dashboard can be viewed through the embedded UI showing the housing market visualizations interactively.
+
 ## Repository Contents
 This repository includes:
 
