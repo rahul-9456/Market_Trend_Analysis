@@ -8,7 +8,6 @@ The dataset used in this project contains housing market data with multiple feat
 
 Files used:
 - Transformed_Housing_Data2.csv
-- final_cleaned_housing_dataset.csv
 
 ## Tools Used
 - Tableau – Data Visualization and Dashboard creation
@@ -17,19 +16,30 @@ Files used:
 ## Visualizations Created
 The following visualizations were created in Tableau:
 
-1. Average Price by Bedrooms  
-2. House Size vs Price (Scatter Plot)  
-3. Average Price by Bathrooms  
-4. Price Distribution (Histogram)
+Total Count of Housing Records 
+
+Average Sale Price 
+
+Total Basement Area 
+
+Total Sales by Years Since Renovation (Bar Chart)
+
+Distribution of House Age (Pie Chart)
+
+House Age vs Bedrooms, Bathrooms, and Floors (Bar Chart)
 
 ## Dashboard
-A comprehensive Tableau dashboard titled **"Comprehensive House Price Analysis"** was created to visualize the relationship between housing features and sale prices.
+A comprehensive Tableau dashboard titled “Housing Data Analysis Dashboard” was created to analyze housing trends and key property characteristics.
 
 The dashboard includes:
-- Price trends by bedrooms
-- Relationship between house size and price
-- Impact of bathrooms on price
-- Distribution of housing prices
+
+Overview of dataset using KPIs (total records, average price, basement area)
+
+Analysis of how renovation affects house sales
+
+Distribution of houses based on age
+
+Relationship between house age and features like bedrooms, bathrooms, and floors
 
 ## Amount of Data Loaded
 The dataset used in this project contains:
